@@ -45,6 +45,6 @@ Verified that the functionality is built directly into Cursor and documented the
 
 I am a Telecommunications Engineering graduate with strong analytical and problem-solving skills.
 
-In addition to my engineering background, I founded and managed a business called Taco Rush, where I developed experience in marketing, negotiation, customer acquisition, and business development.
+In addition to my engineering background, I founded and managed Taco Rush, a business that generated significant revenue growth within its first four months. Through this experience, I developed skills in marketing, negotiation, customer acquisition, and business development.
 
 These experiences strengthened my adaptability, communication skills, and ability to learn new technologies quickly.
